@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Project in https://www.udemy.com/course/build-web-apps-with-react-firebase/.
+Project created following https://www.udemy.com/course/build-web-apps-with-react-firebase/.
