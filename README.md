@@ -6,6 +6,6 @@ A magic-memory card game project created following https://www.udemy.com/course/
 
 ## Technologies
 
-- Javascript: setTimeout
-- React: useState, useEffect
-- CSS: transform, transition
+- Javascript
+- React
+- CSS
